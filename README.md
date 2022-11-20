@@ -2,7 +2,8 @@
 
 > Projeto DSMeta
 
-Projeto construído no evento Semana Spring React
+Projeto construído no evento Semana Spring React da
+[DevSuperior](https://www.youtube.com/@DevSuperior)
 
 ## 📝 Descrição 
 
